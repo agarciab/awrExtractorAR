@@ -20,10 +20,10 @@ El script acepta un solo parámetro que es el fichero AWR en formato HTML.
 
 ## Salida
 
-La salida del script contine encabezados por la salida de error y los valores de las métricas por la salida estandar.
+La salida del script contiene encabezados por la salida de error y los valores de las métricas por la salida estandar.
 En cada linea hay un valor o bien está vacía para esa métrica en particular. Así se facilita el copy&paste en el excel de seguimiento.
 
-El orden de salida de las métricas *Load Stats*:
+El orden de salida de las métricas *Load Stats* (obtenidas de la tabla *Load Profile*):
 
 1. DB Time/s
 2. DB cpu/s
@@ -31,7 +31,7 @@ El orden de salida de las métricas *Load Stats*:
 4. Tx/s
 5. Sql/tx
 
-El orden de salida de las métricas *Foreground wait event* (en tanto por 1):
+El orden de salida de las métricas *Foreground wait event* (en tanto por 1, obtenidas de la tabla *Top 10 Foreground Events by Total Wait Time*):
 
 1. DB CPU
 2. db file secuential read
