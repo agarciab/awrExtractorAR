@@ -34,7 +34,7 @@ El orden de salida de las métricas *Load Stats* (obtenidas de la tabla *Load Pr
 El orden de salida de las métricas *Foreground wait event* (en tanto por 1, obtenidas de la tabla *Top 10 Foreground Events by Total Wait Time*):
 
 1. DB CPU
-2. db file secuential read
+2. db file sequential read
 3. direct path read
 4. resmgr:cpu quantum
 5. read by other session
