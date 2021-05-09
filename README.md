@@ -12,7 +12,7 @@ El extractor de valores es un bash script, se puede ejecutar desde linux o desde
 
 ## Modo de empleo
 
-**./dbvalues <arw_fichero.html>**
+**./dbvalues.sh <arw_fichero.html>**
 
 El script acepta un solo parámetro que es el fichero AWR en formato HTML.
 
