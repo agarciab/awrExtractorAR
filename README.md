@@ -39,3 +39,7 @@ El orden de salida de las métricas *Foreground wait event* (en tanto por 1, obt
 4. resmgr:cpu quantum
 5. read by other session
 6. db file parallel read
+
+## Agradecimientos
+
+El AWRp.py está sacado de https://gitlab.com/alexandremarti/pythonexperiences de Alexandre Marti.
