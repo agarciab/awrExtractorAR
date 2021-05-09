@@ -1,5 +1,5 @@
 # awrExtractorAR
-Extractor de valors per l'informe setmanal de Arquitectura Recurrent.
+Extractor de valors de l'AWR per l'apartat *Rendiment de la Base de Dades* de l'informe mensual d'Arquitectura Recurrent.
 
 El extractor de valores es un bash script, se puede ejecutar desde linux o desde WSL en Windows 10.
 
